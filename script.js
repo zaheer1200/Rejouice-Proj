@@ -104,7 +104,7 @@ function page4animation(){var tl= gsap.timeline({
       scroller:"#main",
       start: "Top 50%",
       end:"Top 65%",
-      markers:true,
+
       scrub:3,
       pin:true,
      
