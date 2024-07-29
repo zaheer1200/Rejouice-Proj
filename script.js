@@ -251,8 +251,8 @@ function footeranimation(){var tl6= gsap.timeline({
   scrollTrigger:{
       trigger:"#footer",
       scroller:"#main",
-      start: "Top 10%",
-      end:"Top 80%",   
+      start: "Top 70%",
+      end:"Top 80%",  
       scrub:2,
       pin:true, 
   }
