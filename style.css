@@ -660,11 +660,12 @@ align-items: flex-end; */
     margin-right: 1px;
 }
 #footer {
-    height: 100vh;
+    height: 90vh;
     padding: 0 15px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    padding-bottom: 10px;
 }
 #ftop {
     height: 40%;
