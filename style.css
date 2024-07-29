@@ -541,6 +541,9 @@ align-items: flex-end; */
         width: 12vw;
 
     }
+    #page1{
+        height: 90vh;
+    }
     #cursor h1{
         font-size: 1.9vw;
     }
